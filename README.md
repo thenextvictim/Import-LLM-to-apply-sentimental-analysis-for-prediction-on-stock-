@@ -11,6 +11,7 @@ In this project, we mainly uitilize Large Language Model(LLM) to conduct sentime
 
 3. Implementation Details:
 The follows are feature of the program **import LLM to apply sentimental analysis on EquAnnofo dataset**:
+
 (1). **Configuration and Library Imports**: The script starts by importing necessary libraries such as `openai`, `pandas`, `re` (for regular expressions), `requests` (for handling HTTP requests), `PyPDF2` (for PDF processing), among others. It also sets up the OpenAI API key and base URL for making requests to an AI model.
 
 (2). **Function Definitions**:
